@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "testing the git hooks"
+echo "testing the git pre-commit  hooks"
